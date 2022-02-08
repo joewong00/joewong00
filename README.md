@@ -45,9 +45,8 @@ Here are some ideas to get you started:
     alt="Joe Wong" height="25" width="30" /></a>
     
 
-### Stats
+### Github Stats
 
-[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joewong00)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joewong00&exclude_repo=Keras-UNet)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewong00&hide=Jupyter Notebook" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=joewong00&count_private=true" />
 
