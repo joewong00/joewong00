@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### About Me
 
 - 🔭 I’m currently working on my [personal blog](https://joewong00.github.io/iwonder/)
-- 🌱 I’m currently learning machine learning, robotic operating system (ROS), computer vision
+- 🌱 I’m currently learning AI, machine learning, robotic operating system (ROS)
 - 📫 How to reach me: **joewong00@gmail.com**
 - ⚡ Hobby: Piano 🎵🎹 and badminton 🏸
 
