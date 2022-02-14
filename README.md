@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <code><img height="35" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/others/git.svg"></code>
 <code><img height="35" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg"></code>
 <code><img height="35" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/firebase.svg"></code>
+<code><img height="35" src="https://github.com/jekyll/brand/blob/6121edd8cc27f233ea706d28d88c67ca546e40dd/jekyll-logo-light-transparent.png"></code>
 
 
 
