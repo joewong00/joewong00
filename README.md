@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <code><img height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/bash.svg"></code>
 <code><img height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c.svg"></code>
+<code><img height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c++.svg"></code>
 <code><img height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/dart.svg"></code>
 <code><img height="30" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/haskell.svg"></code>
 <code><img height="35" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg"></code>
