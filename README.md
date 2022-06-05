@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-I'm Joe Wong and I'm currently a student at University of Nottingham.
+My name is Joe Wong and I have graduated from University of Nottingham, majoring in Computer Science with AI.
 
 <!--
 **joewong00/joewong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### About Me
 
 - 🔭 I’m currently working on my [personal blog](https://joewong00.github.io/iwonder/)
-- 🌱 I’m currently learning AI, machine learning, robotic operating system (ROS)
+- 🌱 I’m interested in artificial intelligence, machine learning, robotic operating system (ROS)
 - 📫 How to reach me: **joewong00@gmail.com**
 - ⚡ Hobby: Piano 🎵🎹 and badminton 🏸
 
@@ -40,10 +40,11 @@ Here are some ideas to get you started:
 ### Connect With Me
 <a href="https://www.linkedin.com/in/joe-wong-476b7b205" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Joe Wong" height="25" width="30" /></a>
+      alt="Joe Wong" height="25" width="25" /></a>
 <a href="https://instagram.com/joewonggg__" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="Joe Wong" height="25" width="30" /></a>
+    alt="Joe Wong" height="25" width="25" /></a>
+<a href="mailto:joewong00@gmail.com"><img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/google-gmail.svg" alt="Joe Wong" height="25" width="25"/></a>
     
 
 ### Github Stats
