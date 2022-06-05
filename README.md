@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### Github Stats
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewong00&hide=Jupyter Notebook" /> -->
-<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joewong00&layout=compact&hide=Jupyter Notebook&theme=algolia"/>
+<img height="130em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joewong00&layout=compact&hide=Jupyter Notebook&theme=algolia"/>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=joewong00&count_private=true&theme=algolia" />
 
 
