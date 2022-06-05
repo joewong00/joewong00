@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/joewonggg__" target="blank"><img align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
     alt="Joe Wong" height="25" width="25" /></a>
-<a href="mailto:joewong00@gmail.com"><img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/google-gmail.svg" alt="Joe Wong" height="25" width="25"/></a>
+<a href="mailto:joewong00@gmail.com"><img src="https://github.com/Thomas-George-T/Thomas-George-T/blob/master/assets/google-gmail.svg" alt="Joe Wong"/></a>
     
 
 ### Github Stats
