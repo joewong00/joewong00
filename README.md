@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 I'm Joe Wong and I'm currently a student at University of Nottingham.
 
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewong00&hide=Jupyter Notebook" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewong00&hide=Jupyter Notebook" /> -->
+<img height="150em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joewong00&layout=compact&hide=Jupyter Notebook&theme=algolia"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joewong00&count_private=true" />
+
 
