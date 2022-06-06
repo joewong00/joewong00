@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" width="25" >
 
-My name is Joe Wong and I have graduated from University of Nottingham, majoring in Computer Science with AI.
+My name is Joe Wong and I have graduated from University of Nottingham, majoring in Computer Science with AI 🎓.
 
 <!--
 **joewong00/joewong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
