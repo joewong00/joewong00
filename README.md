@@ -41,6 +41,7 @@ My name is **Joe Wong** and I have graduated from **University of Nottingham**, 
 ![ROS](https://img.shields.io/badge/-ROS-0F2346?style=flat&logo=ros&logoColor=22314E)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-0F2346?style=flat&logo=phpmyadmin&logoColor=777BB4)
 ![Docker](https://img.shields.io/badge/-Docker-0F2346?style=flat&logo=docker&logoColor=2496ED)
+![Jupyter](https://img.shields.io/badge/-Jupyter-0F2346?style=flat&logo=jupyter&logoColor=F37626)
 \
 ![Others](https://img.shields.io/badge/-Others:-blue?style=plastic)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-0F2346?style=flat&logo=latex&logoColor=008080)
