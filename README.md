@@ -63,6 +63,7 @@ My name is **Joe Wong** and I have graduated from **University of Nottingham**, 
 
 ### Github Stats 📈
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=joewong00&count_private=true&theme=algolia" />
-<img height="130em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewong00&layout=compact&hide=Jupyter Notebook&theme=algolia" /> 
+<img height="130em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewong00&langs_count=8&layout=compact&hide=Jupyter%20Notebook&theme=algolia" /> 
+
 
 
