@@ -1,10 +1,11 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" width="25" >
 
-My name is **Joe Wong** and I have graduated from **University of Nottingham**, majoring in **Computer Science with AI** 🎓.
+Graduate of **University of Nottingham** | **Computer Science with AI** 🎓.
 
 ### About Me 🤓
 
-- 🔭 I’m currently working on my [personal blog](https://joewong00.github.io/iwonder/)
+- 💼 I'm currently working at [HelloWorld Robotics](https://github.com/HelloWorldRobotics) as **Robotics Software Engineer**
+- 🔭 I run my own [personal blog](https://joewong00.github.io/iwonder/)
 - 🌱 I’m interested in artificial intelligence, machine learning, robotic operating system (ROS)
 - 📫 How to reach me: **joewong00@gmail.com**
 - ⚡ Hobby: Piano 🎵🎹 and badminton 🏸
