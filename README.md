@@ -5,8 +5,9 @@ Graduate of **University of Nottingham** | **Computer Science with AI** 🎓.
 ### About Me 🤓
 
 - 💼 I'm currently working at [HelloWorld Robotics](https://github.com/HelloWorldRobotics) as **Robotics Software Engineer**
+- 🤖 I build my own autonomous mobile robot
 - 🔭 I run my own [personal blog](https://joewong00.github.io/iwonder/)
-- 🌱 I’m interested in artificial intelligence, machine learning, robotic operating system (ROS)
+- 🌱 I’m interested in  robotic operating system (ROS), artificial intelligence, machine learning
 - 📫 How to reach me: **joewong00@gmail.com**
 - ⚡ Hobby: Piano 🎵🎹 and badminton 🏸
 
@@ -14,8 +15,9 @@ Graduate of **University of Nottingham** | **Computer Science with AI** 🎓.
 ### Languages and Tools 🛠
 ![Languages](https://img.shields.io/badge/-Languages:-red?style=plastic)
 ![Python](https://img.shields.io/badge/-Python-0F2346?style=flat&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/-C-0F2346?style=flat&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-0F2346?style=flat&logo=cplusplus&logoColor=00599C)
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-0F2346?style=flat&logo=c&logoColor=A8B9CC)
 ![Java](https://img.shields.io/badge/-Java-0F2346?style=flat&logo=java)
 ![Haskell](https://img.shields.io/badge/-Haskell-0F2346?style=flat&logo=haskell&logoColor=5D4F85)
 ![Dart](https://img.shields.io/badge/-Dart-0F2346?style=flat&logo=dart&logoColor=0175C2)
@@ -40,15 +42,14 @@ Graduate of **University of Nottingham** | **Computer Science with AI** 🎓.
 ![Matlab](https://img.shields.io/badge/-Matlab-0F2346?style=flat&logo=matlab&logoColor=1572B6)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-0F2346?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![ROS](https://img.shields.io/badge/-ROS-0F2346?style=flat&logo=ros&logoColor=22314E)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-0F2346?style=flat&logo=phpmyadmin&logoColor=777BB4)
 ![Docker](https://img.shields.io/badge/-Docker-0F2346?style=flat&logo=docker&logoColor=2496ED)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-0F2346?style=flat&logo=jupyter&logoColor=F37626)
 \
 ![Others](https://img.shields.io/badge/-Others:-blue?style=plastic)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-0F2346?style=flat&logo=latex&logoColor=008080)
-![Firebase](https://img.shields.io/badge/-Firebase-0F2346?style=flat&logo=firebase&logoColor=FFCA28)
 ![Markdown](https://img.shields.io/badge/-Markdown-0F2346?style=flat&logo=markdown)
 ![Bash](https://img.shields.io/badge/-Bash-0F2346?style=flat&logo=gnubash&logoColor=4EAA25)
+![Firebase](https://img.shields.io/badge/-Firebase-0F2346?style=flat&logo=firebase&logoColor=FFCA28)
 
 
 
@@ -65,6 +66,5 @@ Graduate of **University of Nottingham** | **Computer Science with AI** 🎓.
 ### Github Stats 📈
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=joewong00&count_private=true&theme=algolia" />
 <img height="130em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joewong00&langs_count=8&layout=compact&hide=Jupyter%20Notebook&theme=algolia" /> 
-
 
 
