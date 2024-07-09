@@ -4,12 +4,11 @@ Graduate of **University of Nottingham** | **Computer Science with AI** 🎓.
 
 ### About Me 🤓
 
-- 💼 I'm currently working at [HelloWorld Robotics](https://github.com/HelloWorldRobotics) as **Robotics Software Engineer**
-- 🤖 I build my own autonomous mobile robot
+- 💼 Professionally, I'm a **robotics software engineer** 
+- 🤖 I build autonomous mobile robots and make robots smart
 - 🔭 I run my own [personal blog](https://joewong00.github.io/iwonder/)
-- 🌱 I’m interested in  robotic operating system (ROS), artificial intelligence, machine learning
+- 🌱 I’m interested in robot operating system (ROS), artificial intelligence and machine learning
 - 📫 How to reach me: **joewong00@gmail.com**
-- ⚡ Hobby: Piano 🎵🎹 and badminton 🏸
 
 
 ### Languages and Tools 🛠
