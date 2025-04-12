@@ -1,17 +1,17 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25" width="25" >
 
-Graduate of **University of Nottingham** | **Computer Science with AI** 🎓.
+🎓 Graduate of **University of Nottingham** | BSc **Computer Science with AI**
 
 ### About Me 🤓
 
-- 💼 Professionally, I'm a **robotics software engineer** 
-- 🤖 I build autonomous mobile robots and make robots smart
-- 🔭 I run my own [personal blog](https://joewong00.github.io/iwonder/)
-- 🌱 I’m interested in robot operating system (ROS), artificial intelligence and machine learning
-- 📫 How to reach me: **joewong00@gmail.com**
+- 💼 Robotics Software Engineer passionate about autonomy and intelligence.
+- 🧠 I specialize in building smart, mobile robots.
+- ✍️ I run my own personal blog [my blog](https://joewong00.github.io/iwonder/). 
+- 🌱 Exploring ROS, AI, and ML.
+- 📫 Reach me: **joewong00@gmail.com**
 
 
-### Languages and Tools 🛠
+### Languages and Dev Tools 🛠
 ![Languages](https://img.shields.io/badge/-Languages:-red?style=plastic)
 ![Python](https://img.shields.io/badge/-Python-0F2346?style=flat&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/-C++-0F2346?style=flat&logo=cplusplus&logoColor=00599C)
@@ -52,7 +52,7 @@ Graduate of **University of Nottingham** | **Computer Science with AI** 🎓.
 
 
 
-### Connect With Me 🤝
+### Let's Connect 🤝
 <a href="https://www.linkedin.com/in/joe-wong-476b7b205" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Joe Wong" height="25" width="25"/></a>&nbsp;
