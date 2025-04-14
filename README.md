@@ -4,10 +4,10 @@
 
 ### About Me 🤓
 
-- 💼 Robotics Software Engineer passionate about autonomy and intelligence.
+- 💼 **Robotics Software Engineer** passionate about autonomy and intelligence.
 - 🧠 I specialize in building smart, mobile robots.
-- ✍️ I run my own personal blog [my blog](https://joewong00.github.io/iwonder/). 
-- 🌱 Exploring ROS, AI, and ML.
+- ✍️ I run my own personal blog [IWonder](https://joewong00.github.io/iwonder/). 
+- 🌱 Constantly exploring ROS, AI, and ML.
 - 📫 Reach me: **joewong00@gmail.com**
 
 
